@@ -1,5 +1,5 @@
 {
-    "version": "23.2.0",
+    "version": "23.2.1",
     "description": "The SQL database for global cloud services",
     "homepage": "https://www.cockroachlabs.com/",
     "license": {
@@ -8,9 +8,9 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://binaries.cockroachdb.com/cockroach-v23.2.0.windows-6.2-amd64.zip",
-            "hash": "b0e4e64f4c6c3969cf71b2d2bf32c0e029f830510d83c35ac32a5b7dcf483e6c",
-            "extract_dir": "cockroach-v23.2.0.windows-6.2-amd64"
+            "url": "https://binaries.cockroachdb.com/cockroach-v23.2.1.windows-6.2-amd64.zip",
+            "hash": "7766d3f7a1ae18f8c2877e6a8c2f90acaf467f87336f138d4ac3d078e03e8752",
+            "extract_dir": "cockroach-v23.2.1.windows-6.2-amd64"
         }
     },
     "bin": "cockroach.exe",
